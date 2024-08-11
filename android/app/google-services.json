@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "277468099117",
+    "project_id": "turn-2-park",
+    "storage_bucket": "turn-2-park.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277468099117:android:2fc778f775e4467e00fea4",
+        "android_client_info": {
+          "package_name": "com.example.turn2park"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277468099117-322eecnqv7os7ml5bsf37su7q4fdfjs0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.turn2park",
+            "certificate_hash": "924ff7f9450d49b144f0552519af473382cea1fd"
+          }
+        },
+        {
+          "client_id": "277468099117-qsa4o619rag2tbcs0sm19ssojbmqqb7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwTigb3Dro-JuTmSx1S5nHJUfzaf1Pg2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277468099117-qsa4o619rag2tbcs0sm19ssojbmqqb7k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
