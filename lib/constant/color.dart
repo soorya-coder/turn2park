@@ -31,7 +31,6 @@ const cr_grey = Color(0xff3b3554);
 //const cr_pri = Color(0xff);
 //const cr_sec = Color(0xff);
 //const cr_ = Color(0xff);
-//Color cr_ = ;
 //const cr_ = Color(0xff);
 
 
